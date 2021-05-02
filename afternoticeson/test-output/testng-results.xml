@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="56877" started-at="2021-04-26T03:16:49Z" finished-at="2021-04-26T03:17:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="56877" started-at="2021-04-26T03:16:49Z" finished-at="2021-04-26T03:17:46Z">
+      <class name="selrelated.virtusa">
+        <test-method status="PASS" signature="openMain()[pri:0, instance:selrelated.virtusa@53b32d7]" name="openMain" is-config="true" duration-ms="30280" started-at="2021-04-26T08:46:49Z" finished-at="2021-04-26T08:47:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openMain -->
+        <test-method status="PASS" signature="palindrometest()[pri:0, instance:selrelated.virtusa@53b32d7]" name="palindrometest" duration-ms="26296" started-at="2021-04-26T08:47:20Z" finished-at="2021-04-26T08:47:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- palindrometest -->
+        <test-method status="PASS" signature="anagramtest()[pri:0, instance:selrelated.virtusa@53b32d7]" name="anagramtest" duration-ms="245" started-at="2021-04-26T08:47:46Z" finished-at="2021-04-26T08:47:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- anagramtest -->
+      </class> <!-- selrelated.virtusa -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
